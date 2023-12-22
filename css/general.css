@@ -1,0 +1,33 @@
+/*************************
+*
+*  General
+*
+*************************/
+.background-img {
+    background-position: 50% 50% !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: scroll !important;
+}
+
+.margin-bottom-40 {
+    margin-bottom: 40px;
+}
+
+.margin-bottom-60 {
+    margin-bottom: 60px;
+}
+
+.margin-top-40 {
+    margin-top: 40px;
+}
+
+:root {
+    --color-logo: #ffcc0d;
+    --color-border: #efefef;
+    --color-title: #222222;
+    --color-heading: #dcdcdc;
+    --color-excerpt: #717171;
+    --color-title-black: rgba(0,0,0,0.8);
+}
+
